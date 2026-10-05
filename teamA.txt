@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi this is member A
 This is FEATURE branch
+=======
+This is MAIN branch
+>>>>>>> main
